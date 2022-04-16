@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "50191103576",
+    "firebase_url": "https://birddie-app-default-rtdb.firebaseio.com",
+    "project_id": "birddie-app",
+    "storage_bucket": "birddie-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50191103576:android:8168fe7e4919e866c83c2d",
+        "android_client_info": {
+          "package_name": "com.birddie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50191103576-cpqfkkh34ctu2e76qh2l94ktohhkv4ab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.birddie",
+            "certificate_hash": "c4598e4ebd93c41fafb6689a27fe5c786904a49f"
+          }
+        },
+        {
+          "client_id": "50191103576-d15jne37f5sajjvqbteoc6tav4j269kv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.birddie",
+            "certificate_hash": "65eb7a070fc1810da84c61b8274226c0da064945"
+          }
+        },
+        {
+          "client_id": "50191103576-tvh6vbjj0ua4dfmi6r31obv2ooabet39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.birddie",
+            "certificate_hash": "a7937f2881c52be32ba23b6f57d129042d044d71"
+          }
+        },
+        {
+          "client_id": "50191103576-kbsosmkaouqmn3vi18vpk01bepafb9a7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARMBZepicKKpnla2Og0bF7puS9lEgkwJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50191103576-kbsosmkaouqmn3vi18vpk01bepafb9a7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "50191103576-f2ba2rpk10gku57t7qtav1nflf0fhmpv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.birddie"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
